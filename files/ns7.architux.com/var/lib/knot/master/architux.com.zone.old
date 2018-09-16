@@ -1,0 +1,87 @@
+;; Zone dump (Knot DNS 2.6.6)
+architux.com.       	600	SOA	ns7.architux.com. hostmaster.architux.com. 2732748422 600 300 2419200 3600
+architux.com.       	600	NS	ns7.architux.com.
+architux.com.       	600	NS	ns9.architux.com.
+architux.com.       	600	A	195.154.236.164
+architux.com.       	600	MX	10 mail2.architux.com.
+architux.com.       	600	TXT	"v=spf1 ip4:163.172.214.190 ip4:195.154.236.164 -all"
+mail._domainkey.architux.com.	600	TXT	"v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY4jFa3qPsw52rsYBKYv7dd/K+bEVAHxQWbZ2fIM9kNi7jxA4B3aMxu5UQjhOVZOnUJWc7OvldImDclr0QcYnNdLlGUV2osCwY+vgbzaNqj/aghO4EbpAxp3GX1brHgyMenO3gZ4QtsxfcfPPL+r5z1hDZr/UcOJgxfoqIewNRswIDAQAB"
+_jabber._tcp.architux.com.	600	SRV	5 0 5269 jabber.architux.com.
+_xmpp-client._tcp.architux.com.	600	SRV	5 0 5222 jabber.architux.com.
+_xmpp-server.architux.com.	600	SRV	5 0 5269 jabber.architux.com.
+antonio.architux.com.	600	A	163.172.214.190
+_http._tcp.bin.architux.com.	600	SRV	10 60 9090 ns4.architux.com.
+ca.architux.com.    	600	CNAME	ns4.architux.com.
+claire.architux.com.	600	CNAME	ns7.architux.com.
+coton.architux.com. 	600	CNAME	julie.hellocoton.fr.
+ftp.architux.com.   	600	CNAME	ftp2.architux.com.
+ftp1.architux.com.  	600	A	195.154.236.164
+ftp2.architux.com.  	600	A	88.190.21.164
+iamanda.architux.com.	600	A	10.100.0.19
+idns.architux.com.  	600	A	10.100.0.20
+iimap.architux.com. 	600	A	10.100.0.21
+ijabber.architux.com.	600	A	10.100.0.18
+ildap.architux.com. 	600	A	10.100.0.14
+ilxctest.architux.com.	600	A	10.100.0.15
+imap.architux.com.  	600	CNAME	imap2.architux.com.
+imap1.architux.com. 	600	A	88.190.21.164
+imap2.architux.com. 	600	A	163.172.214.190
+imysql.architux.com.	600	A	10.100.0.13
+info.architux.com.  	600	A	163.172.214.190
+infos.architux.com. 	600	A	163.172.214.190
+isshgw.architux.com.	600	A	10.100.0.17
+itemplate1.architux.com.	600	A	10.100.0.11
+itotoro.architux.com.	600	A	10.100.0.10
+ivarnish.architux.com.	600	A	10.100.0.16
+iweb1.architux.com. 	600	A	10.100.0.22
+iweb3.architux.com. 	600	A	10.100.0.12
+jabber.architux.com.	600	A	88.190.21.164
+ldap.architux.com.  	600	A	195.154.236.164
+lmtp.architux.com.  	600	A	195.154.236.164
+mail.architux.com.  	600	CNAME	mail2.architux.com.
+mail1.architux.com. 	600	A	80.14.43.225
+mail2.architux.com. 	600	A	163.172.214.190
+mail4.architux.com. 	600	A	163.172.214.190
+mugairyu.architux.com.	600	CNAME	architux.com.
+multimedia.architux.com.	600	CNAME	ns2.architux.com.
+ns1.architux.com.   	600	A	195.154.236.164
+ns10.architux.com.  	3600	A	163.172.216.138
+ns2.architux.com.   	600	A	163.172.214.190
+ns3.architux.com.   	600	A	88.190.230.216
+ns4.architux.com.   	600	A	195.154.236.164
+ns5.architux.com.   	600	A	195.154.236.164
+ns6.architux.com.   	600	A	163.172.217.110
+ns7.architux.com.   	600	A	163.172.214.190
+docker.ns7.architux.com.	3600	A	172.17.0.1
+ns8.architux.com.   	600	CNAME	ns8.opendns.io.
+ns9.architux.com.   	600	A	163.172.217.110
+pop.architux.com.   	600	CNAME	architux.com.
+proxy.architux.com. 	600	CNAME	ns4.architux.com.
+secure.architux.com.	600	CNAME	ns4.architux.com.
+securemail.architux.com.	600	CNAME	ns4.architux.com.
+smtp.architux.com.  	600	CNAME	ns7.architux.com.
+smtp1.architux.com. 	600	A	195.154.236.164
+smtp2.architux.com. 	600	A	163.172.214.190
+smtp3.architux.com. 	600	A	195.154.236.164
+smtp4.architux.com. 	600	A	195.154.236.164
+smtpopensender.architux.com.	600	A	195.154.236.164
+sogo.architux.com.  	600	A	195.154.236.164
+sql.architux.com.   	600	A	195.154.236.164
+status.architux.com.	600	A	163.172.214.190
+svn.architux.com.   	600	A	195.154.236.164
+test.architux.com.  	600	CNAME	aeroservices-group.com.
+transfer.architux.com.	3600	A	163.172.217.110
+transfert.architux.com.	3600	A	163.172.217.110
+vpn.architux.com.   	600	CNAME	vpn1.architux.com.
+vpn-ns1.architux.com.	600	A	10.35.0.254
+vpn-ns2.architux.com.	600	A	10.37.0.254
+vpn1.architux.com.  	600	A	88.190.21.164
+vpn2.architux.com.  	600	A	91.121.5.106
+vpn4.architux.com.  	600	A	88.191.202.34
+webdownload.architux.com.	600	A	88.190.230.222
+webmail.architux.com.	600	CNAME	ns7.architux.com.
+webmail2.architux.com.	600	A	88.190.21.164
+webmailtest.architux.com.	600	A	88.190.21.164
+www.architux.com.   	600	CNAME	architux.com.
+;; Written 88 records
+;; Time 2018-04-28 20:16:51 CEST

@@ -1,0 +1,2 @@
+_acme-challenge.unigo.fr. 86400    SOA    ns7.architux.com. root.architux.com. 2018021740 28800 7200 864000 86400
+_acme-challenge.unigo.fr. 300    NS    ns7.architux.com.

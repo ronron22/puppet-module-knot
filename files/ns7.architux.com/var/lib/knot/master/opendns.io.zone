@@ -1,0 +1,16 @@
+;; Zone dump (Knot DNS 2.6.1)
+opendns.io.         	300	SOA	ns7.architux.com. hostmaster.architux.com. 4042705394 600 300 2419200 600
+opendns.io.         	300	NS	ns7.architux.com.
+opendns.io.         	300	NS	ns9.architux.com.
+;opendns.io.         	300	NS	ns6.gandi.net.
+opendns.io.         	300	MX	10 mail2.architux.com.
+opendns.io.         	300	A	163.172.214.190	
+fg25.opendns.io.    	300	A	213.182.58.229
+fg26.opendns.io.    	300	A	213.182.58.230
+flood.opendns.io.   	300	A	212.129.27.222
+ns6.opendns.io.     	300	A	104.155.75.68
+ns7.opendns.io.     	300	A	163.172.214.190
+ns8.opendns.io.     	300	A	192.168.1.31
+www.opendns.io.     	300	A	163.172.214.190
+transfer.opendns.io.		A	163.172.217.110 
+transfert.opendns.io.		A	163.172.217.110 

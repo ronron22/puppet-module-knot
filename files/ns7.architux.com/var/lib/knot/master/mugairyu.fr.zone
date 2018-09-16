@@ -1,0 +1,14 @@
+;; Zone dump (Knot DNS 2.6.6)
+mugairyu.fr.        	300	SOA	ns7.architux.com. hostmaster.architux.com. 4042705435 600 300 2419200 600
+mugairyu.fr.        	3600	NS	ns7.architux.com.
+mugairyu.fr.        	3600	NS	ns9.architux.com.
+mugairyu.fr.        	3600	NS	ns6.gandi.net.
+mugairyu.fr.        	300	MX	10 mail2.architux.com.
+;mugairyu.fr.        	3600	A	212.129.27.223
+mugairyu.fr.        	3600	A	163.172.214.190
+_test.mugairyu.fr.  	3600	TXT	"glagla"
+mail.mugairyu.fr.   	3600	CNAME	mail.architux.com 	
+www.mugairyu.fr.    	3600	CNAME	mugairyu.fr.
+_test-test.wwww.mugairyu.fr.	3600	TXT	"glagla"
+;; Written 9 records
+;; Time 2018-04-28 20:06:25 CEST

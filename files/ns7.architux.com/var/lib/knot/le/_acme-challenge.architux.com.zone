@@ -1,0 +1,9 @@
+;; Zone dump (Knot DNS 2.6.6)
+_acme-challenge.architux.com.	86400	SOA	ns7.architux.com. root.architux.com. 2018021761 28800 7200 864000 86400
+_acme-challenge.architux.com.	300	NS	ns7.architux.com.
+_acme-challenge.architux.com.	1	TXT	"1TlVCCPydFN4ZfOiLdBVor677FU9Mkd-vnzXnN-XdWs"
+_acme-challenge.architux.com.	1	TXT	"TzdFSpdqIMdwTdfSgZrQXdvL3GVbG0ef2qcfWOpCI80"
+_acme-challenge.architux.com.	1	TXT	"lVAp83zO7Q11w--QOZBglYAh-AkG6hW670brKCZW6VY"
+_acme-challenge.architux.com.	1	TXT	"tbi2Q4j98nqjVD_PI8KuORUYgBRfairKXdYZvODljnw"
+;; Written 6 records
+;; Time 2018-05-02 16:12:40 CEST

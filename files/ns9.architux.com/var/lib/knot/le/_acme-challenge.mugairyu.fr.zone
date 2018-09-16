@@ -1,0 +1,8 @@
+;; Zone dump (Knot DNS 2.6.6)
+_acme-challenge.mugairyu.fr.	86400	SOA	ns7.architux.com. root.architux.com. 2018021743 28800 7200 864000 86400
+_acme-challenge.mugairyu.fr.	300	NS	ns7.architux.com.
+_acme-challenge.mugairyu.fr.	1	TXT	"H_EFCG62Y1L1RMmlU5eFdqE3RmDLDZAlsPfL4sWTVJk"
+_acme-challenge.mugairyu.fr.	1	TXT	"fsXcYVh3aA0Hs2zCD__g8lvsY561skdSlzNOrzC2hek"
+_acme-challenge.mugairyu.fr.	1	TXT	"nJQboxrU9OWIaV8wzYnNzrGiDSrfD-f3oq57XK-2bNY"
+;; Written 5 records
+;; Time 2018-05-02 13:37:37 CEST

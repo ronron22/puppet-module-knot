@@ -1,0 +1,8 @@
+;; Zone dump (Knot DNS 2.6.6)
+unigo.fr.           	300	SOA	ns7.architux.com. hostmaster.architux.com. 4042705433 600 300 2419200 600
+unigo.fr.           	300	NS	ns7.architux.com.
+unigo.fr.           	300	NS	ns9.architux.com.
+unigo.fr.           	300	MX	10 mail2.architux.com.
+unigo.fr.           	300	A	163.172.214.190
+test1.unigo.fr.     	7200	A	192.168.2.2
+www.unigo.fr.       	300	A	163.172.214.190

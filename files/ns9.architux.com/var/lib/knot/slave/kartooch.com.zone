@@ -1,0 +1,22 @@
+;; Zone dump (Knot DNS 2.6.4)
+kartooch.com.       	600	SOA	ns7.architux.com. hostmaster.architux.com. 4136805143 600 300 2419200 600
+kartooch.com.       	600	NS	ns7.architux.com.
+kartooch.com.       	600	NS	ns9.architux.com.
+kartooch.com.       	600	MX	10 ns7.architux.com.
+kartooch.com.       	600	A	163.172.214.190
+511.kartooch.com.   	3600	CNAME	kartooch.com.
+antigone.kartooch.com.	3600	CNAME	kartooch.com.
+cerise.kartooch.com.	3600	CNAME	kartooch.com.
+cms.kartooch.com.   	3600	CNAME	kartooch.com.
+ftp.kartooch.com.   	600	CNAME	kartooch.com.
+greenbean.kartooch.com.	3600	CNAME	kartooch.com.
+main.kartooch.com.  	3600	CNAME	kartooch.com.
+mdr.kartooch.com.   	3600	CNAME	kartooch.com.
+nuage.kartooch.com. 	3600	CNAME	kartooch.com.
+redbean.kartooch.com.	3600	CNAME	kartooch.com.
+site.kartooch.com.  	3600	CNAME	kartooch.com.
+tata.kartooch.com.  	3600	CNAME	kartooch.com.
+toto.kartooch.com.  	3600	CNAME	kartooch.com.
+www.kartooch.com.   	600	CNAME	kartooch.com.
+;; Written 19 records
+;; Time 2018-07-04 18:29:34 CEST

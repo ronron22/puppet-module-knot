@@ -1,0 +1,11 @@
+;; Zone dump (Knot DNS 2.6.6)
+_acme-challenge.kartooch.com.	86400	SOA	ns7.architux.com. root.architux.com. 2018021746 28800 7200 864000 86400
+_acme-challenge.kartooch.com.	300	NS	ns7.architux.com.
+_acme-challenge.kartooch.com.	1	TXT	"0W98HgQg2c1X2BGVfQmap7A9aNBP3h_cKDQOtAv3p3M"
+_acme-challenge.kartooch.com.	1	TXT	"8Idz_9N5Z6O_DAAapKdTekbbBu8Y_ozpbPblMiIujmY"
+_acme-challenge.kartooch.com.	1	TXT	"lg4NUcoioHDMDU3qwRxo-Skyc3S49VElVLKNxiMKbUk"
+_acme-challenge.kartooch.com.	1	TXT	"oVegDCrd5A36h_4lbxxlDvsaZdtN3ruH6DTgOJbY4Ag"
+_acme-challenge.kartooch.com.	1	TXT	"u3jbzvmDO134vJH245f2Eb_8d_-fuxwrpqyeMryEaI8"
+_acme-challenge.kartooch.com.	1	TXT	"zMJKe4DrKyWFUKrbcgxctrOA5TJh3J-43YTsC9uXWV0"
+;; Written 8 records
+;; Time 2018-05-02 15:35:26 CEST
