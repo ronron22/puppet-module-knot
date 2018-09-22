@@ -1,0 +1,4 @@
+knot::knot_packages:
+  - knot
+  - knot-dnsutils
+
