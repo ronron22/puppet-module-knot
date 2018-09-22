@@ -4,6 +4,3 @@ knot::service::service_enable: true
 knot::service::service_ensure: 'running'
 knot::service::service_manage: true
 knot::service::knot_config_file: '/etc/knot/knot.conf'
-knot::install::knot_packages:
-  - knot
-  - knot-dnsutils

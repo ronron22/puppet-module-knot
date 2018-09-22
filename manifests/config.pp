@@ -1,4 +1,8 @@
-class knot::config {
+class knot::config (
+
+	$knot_config_file = hiera('knot_config_file'),
+
+	) {
 
 	file { $knot_config_file:
 		ensure  => present,
