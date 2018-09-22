@@ -1,8 +1,8 @@
 class knot {
 
-  class { '::knot::install': } ->
-  class { '::knot::config': } ~>
-  class { '::knot::zones': } ~>
-  class { '::knot::service': } ->
+  include knot::install
+  include knot::config
+  include knot::zones
+  include knot::service
 
 }
