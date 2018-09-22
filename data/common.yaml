@@ -1,6 +1,6 @@
 ---
-knot::service_name:   'knot'
-knot::service_enable:  true
-knot::service_ensure:  'running'
-knot::service_manage:  true
-knot::knot_config_file: '/etc/knot/knot.conf'
+knot::service::service_name:   'knot'
+knot::service::service_enable:  true
+knot::service::service_ensure:  'running'
+knot::service::service_manage:  true
+knot::service::knot_config_file: '/etc/knot/knot.conf'
