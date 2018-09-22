@@ -1,11 +1,11 @@
 class knot::install (
-        $nodename = hiera('nodename'),
-    ) {
-        package { 'knot':
-          ensure  => present,
-        }
-        file { '/etc/knot/knot.conf':
-          ensure  => present,
-          content => file("knot/${nodename}/etc/knot/knot.conf"),
-        }
+
+	$knot_packages = hiera('knot_packages'),
+
+	) {
+
+	package { $knot_packages:
+		ensure  => present,
+	}
+
 }
