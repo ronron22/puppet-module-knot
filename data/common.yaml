@@ -7,4 +7,4 @@ knot::service::service_manage: true
 knot::config::knot_config_file: '/etc/knot/knot.conf'
 knot::config::knot_zones_directory: '/var/lib/knot/'
 
-knot::zone::service_name: 'knot'
+knot::zones::service_name: 'knot'
