@@ -3,4 +3,6 @@ knot::service::service_name: 'knot'
 knot::service::service_enable: true
 knot::service::service_ensure: 'running'
 knot::service::service_manage: true
+
 knot::config::knot_config_file: '/etc/knot/knot.conf'
+knot::config::knot_zones_directory: '/var/lib/knot/'

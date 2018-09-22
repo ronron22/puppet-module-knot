@@ -1,6 +1,7 @@
 class knot::config (
 
 	$knot_config_file = hiera('knot_config_file'),
+	$nodename = hiera('nodename')
 
 	) {
 
