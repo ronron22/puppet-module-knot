@@ -1,4 +1,4 @@
-class knot::install {
+class knot::config {
 
 	file { $knot_config_file:
 		ensure  => present,
