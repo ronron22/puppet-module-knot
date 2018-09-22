@@ -1,3 +1,0 @@
-knot::install::knot_packages:
-  - knot
- - knot-dnsutils
